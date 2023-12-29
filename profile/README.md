@@ -2,11 +2,23 @@
 
 ## 🛈 Description
 
-Programming Systems and Tools is a review of programming concepts, programming environments, debugging tools, team software engineering and version control, design patterns and algorithms.
+Programming Systems and Tools is a review of programming concepts, programming environments, debugging tools, and software engineering within a team including version control.
 
+### Purpose
 The purpose of this course is to prepare students who do not have C programming experience to handle the coursework for the core classes for a graduate degree in computer science. 
-The target audience is a student who has a background programming in one or more procedural languages other than C (e.g. Python, Java, Rust, etc.). 
+The target audience is a student who has a background programming in one or more procedural languages other than C (e.g. Python, Java, Rust, Swift, Objective C, etc.). 
 This course makes no assumptions about pre-existing knowledge other than that you understand the high level structure and interpretation of computer programs (e.g. syntax, structure, control flow, and data models).
+
+### Learning Objectives
+
+Upon successful completion of this course, you will be able to:
+- Understand the C programming language, to include syntax and idioms.
+- Utilize the GCC compilation toolchain including the C preprocessor and the ld linker
+- Employ debugging tools such as GDB and Valgrind, and testing frameworks such as CUnit to produce
+efficient, error-free code.
+- Perform content management using Git and forges such as Github.
+- Master data structures and algorithms needed for core courses such as computer architecture (CS 520)
+and operating systems (CS 550).
 
 ## 🕮 Bibliography
 
