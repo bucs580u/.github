@@ -14,11 +14,9 @@ This course makes no assumptions about pre-existing knowledge other than that yo
 Upon successful completion of this course, you will be able to:
 - Understand the C programming language, to include syntax and idioms.
 - Utilize the GCC compilation toolchain including the C preprocessor and the ld linker
-- Employ debugging tools such as GDB and Valgrind, and testing frameworks such as CUnit to produce
-efficient, error-free code.
+- Employ debugging tools such as GDB and Valgrind, and testing frameworks such as CUnit to produce efficient, error-free code.
 - Perform collaborative versioning control using Git. Explore bug tracking, software feature requests, task management, and continuous integration using Github.
-- Master data structures and algorithms needed for core courses such as computer architecture (CS 520)
-and operating systems (CS 550).
+- Master data structures and algorithms needed for core courses such as computer architecture (CS 520) and operating systems (CS 550).
 
 ## 🕮 Bibliography
 
@@ -36,5 +34,5 @@ and operating systems (CS 550).
 
 - **I don't speak C, should I take this course?** Yes! Other courses like CS 575: Programming Languages and CS 550: Operating Systems presume that you can speak C proficiently. If you can't, the coursework is difficult to complete.
 - **I don't speak _any_ general purpose languages, should I take this course?** I won't say no, but I will say that your undergraduate degree probably didn't prepare you for a graduate degree in computer science. Talk to the graduate director whether you should re-classify into the Master of Science in Information Sciences (MSIS) program instead.
-- **I do speak C, should I take this course?** Depends. If you're taking it for an easy "A", you're probably better served by moving on to CS 575. Taking this course might delay taking other core courses and therefore hinder you if you plan to take a semester for an internship in your second year. Also, my experience is that students who take this course because they feel they already know the material tend to underperform due to a lack of commitment.
+- **I do speak C, should I take this course?** Depends. On one hand, if you're taking it for an easy "A", you're probably better served by moving on to CS 575. Taking this course might delay taking other core courses and therefore hinder you if you plan to take a semester for an internship in your second year. On the other hand, if it's been a really long time since you programmed in C (e.g. returning or professional students) and honestly could use a refresher, you may find this course particularly helpful.
 
