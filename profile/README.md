@@ -35,6 +35,6 @@ and operating systems (CS 550).
 ## 🯄 Frequently Asked Questions
 
 - **I don't speak C, should I take this course?** Yes! Other courses like CS 575: Programming Languages and CS 550: Operating Systems presume that you can speak C proficiently. If you can't, the coursework is difficult to complete.
-- **I don't speak _any_ procedural languages, should I take this course?** I won't say no, but I will say that your undergraduate degree probably didn't prepare you for a graduate degree in computer science. Talk to the graduate director whether you should re-classify into the Master of Science in Information Sciences (MSIS) program instead.
+- **I don't speak _any_ general purpose languages, should I take this course?** I won't say no, but I will say that your undergraduate degree probably didn't prepare you for a graduate degree in computer science. Talk to the graduate director whether you should re-classify into the Master of Science in Information Sciences (MSIS) program instead.
 - **I do speak C, should I take this course?** Depends. If you're taking it for an easy "A", you're probably better served by moving on to CS 575. Taking this course might delay taking other core courses and therefore hinder you if you plan to take a semester for an internship in your second year. Also, my experience is that students who take this course because they feel they already know the material tend to underperform due to a lack of commitment.
 
