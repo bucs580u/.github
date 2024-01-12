@@ -1,5 +1,7 @@
 # CS 580U: Programming Systems and Tools
 
+An unofficial markdown version of the syllabus is available [here](https://github.com/bucs580u/.github/blob/main/syllabus.md).
+
 ## 🛈 Description
 
 Programming Systems and Tools is a review of programming concepts, programming environments, debugging tools, and software engineering within a team including version control.
